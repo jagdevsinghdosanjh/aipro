@@ -1,3 +1,4 @@
+
 import pyautogui
 
 while True:
